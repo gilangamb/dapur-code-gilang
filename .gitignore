@@ -39,3 +39,26 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# agents & assistant tools
+.agents/
+AGENTS.md
+CLAUDE.md
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# local env files
+.env*.local
+.env.local
+
+# OS files
+Thumbs.db
+desktop.ini
+
